@@ -14,12 +14,12 @@ struct ContentView: View {
                 .resizable()
                 .scaledToFit()
             Text("Ola, world!")
-            Text("V. 1.0")
+            Text("V. 1.1")
                 .font(.largeTitle)
                 .fontWeight(.black)
         }
         .padding()
-        .foregroundColor(.red)
+        .foregroundColor(.mint)
     }
 }
 
